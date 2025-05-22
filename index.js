@@ -160,4 +160,4 @@ client.on('messageCreate', async (message) => {
   }
 });
 
-client.login('MTI0NjQ0ODMzNDEwMTU0NTAzMA.GxgTY5.RPTxYpbR0aZT0kf7TEMBKD-cCsb1O9fCIpghC0'); // Replace 'YOUR_BOT_TOKEN' with your actual bot token
+client.login('MTI0NjQ0ODMzNDEwMTU0NTAzMA.GxgTY5.RPTxYpbR0aZT0kf7TEMBKD-cCsb1O9fCIpghC0');
